@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gotools&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../FHT-Service-ShortUrl/src/parllay.cn" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../FHT-Service-ShortUrl/src/parllay.cn" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
